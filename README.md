@@ -7,4 +7,4 @@ DataLabeler.py contains simple GUI app that can be used to classify your dataset
 
 Robot running CNN trained with theese scripts can be seen on video: https://youtu.be/Vwwrvt3d2h8
 
-As you can see CNN alone isn't enough for controlling robot, path planning and SLAM would upgrade robot's performance.
+As you can see CNN alone isn't enough for controlling robot, path planning and SLAM would upgrade robot's performance, which are my current focus for now.
